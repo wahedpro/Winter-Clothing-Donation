@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Warm Clothes for Dhaka",
+        "image": "https://i.ibb.co.com/H7dw6SC/card-1.jpg",
+        "description": "Help provide warm jackets and blankets to families in Dhaka suffering from extreme cold.",
+        "status": "Active",
+        "contactInfo": "contact@winterdonation.com",
+        "division": "Dhaka"
+    },
+    {
+        "id": 2,
+        "title": "Blankets for Chittagong Hills",
+        "image": "https://i.ibb.co.com/2jBLtGY/card-2.jpg",
+        "description": "Donate blankets to families living in the chilly Chittagong Hill Tracts.",
+        "status": "Active",
+        "contactInfo": "contact@winterdonation.com",
+        "division": "Chittagong"
+    },
+    {
+        "id": 3,
+        "title": "Support Sylhet Villages",
+        "image": "https://i.ibb.co.com/0c4Bbs4/card-3.jpg",
+        "description": "Provide winter clothing to underprivileged families in Sylhet.",
+        "status": "Active",
+        "contactInfo": "sylhet@winterdonation.com",
+        "division": "Sylhet"
+    },
+    {
+        "id": 4,
+        "title": "Clothing Drive for Rajshahi",
+        "image": "https://i.ibb.co.com/Jys5Cf7/card-4.jpg",
+        "description": "Ensure warmth for the vulnerable communities in Rajshahi by donating winter essentials.",
+        "status": "Completed",
+        "contactInfo": "rajshahi@winterdonation.com",
+        "division": "Rajshahi"
+    },
+    {
+        "id": 5,
+        "title": "Winter Relief in Khulna",
+        "image": "https://i.ibb.co.com/2Kv2VGQ/card-5.jpg",
+        "description": "Your donations will help protect the poor in Khulna from the freezing weather.",
+        "status": "Active",
+        "contactInfo": "khulna@winterdonation.com",
+        "division": "Khulna"
+    },
+    {
+        "id": 6,
+        "title": "Help Barisal Stay Warm",
+        "image": "https://i.ibb.co.com/C63tRN3/card-6.jpg",
+        "description": "Donate sweaters and socks to children and elderly in Barisal who need your help.",
+        "status": "Pending",
+        "contactInfo": "barisal@winterdonation.com",
+        "division": "Barisal"
+    }
+]
